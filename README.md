@@ -1,5 +1,3 @@
-# GitHub Profile
-
 ## 👨‍💻 Passionate Programmer | Full Stack Web Developer
 
 ### 🌟 About Me
