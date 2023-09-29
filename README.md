@@ -4,11 +4,11 @@
 Hello! I'm a young and enthusiastic Full Stack Web Developer. I have been learning programming since 2019, and I'm currently 20 years old. My coding journey began with Python, which was my first programming language. Since then, I have been continuously developing my skills and gaining new experiences.
 
 ### 💻 Technical Skills
-- Programming Languages: Python, JavaScript, PHP
+- Programming Languages: Python, JavaScript, PHP, TypeScript
 - Front-end: HTML, CSS, Bootstrap, Tailwind CSS, React.js, Gatsby.js, Next.js, React Native
-- Back-end: Node.js, Express.js, WooCommerce, PrestaShop, Symfony
-- Databases: MongoDB
-- CMS: WordPress, Strapi
+- Back-end: Node.js, Express.js, WooCommerce, PrestaShop, Symfony, Doctrine, API Platform
+- Databases: MongoDB, Doctrine
+- CMS: WordPress, Strapi, PayloadCMS
 - Tools: Git, GitHub
 
 ### 🎓 Education and Experience
