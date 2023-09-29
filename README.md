@@ -5,10 +5,10 @@ Hello! I'm a young and enthusiastic Full Stack Web Developer. I have been learni
 
 ### 💻 Technical Skills
 - Programming Languages: Python, JavaScript, PHP
-- Front-end: HTML, CSS, Bootstrap, Tailwind CSS, React.js, Gatsby.js, Next.js
-- Back-end: Node.js, Express.js
+- Front-end: HTML, CSS, Bootstrap, Tailwind CSS, React.js, Gatsby.js, Next.js, React Native
+- Back-end: Node.js, Express.js, WooCommerce, PrestaShop, Symfony
 - Databases: MongoDB
-- CMS: WordPress, WooCommerce, PrestaShop, Strapi
+- CMS: WordPress, Strapi
 - Tools: Git, GitHub
 
 ### 🎓 Education and Experience
