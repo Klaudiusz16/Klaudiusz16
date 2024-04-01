@@ -20,5 +20,3 @@ Apart from programming, I am interested in psychology and personal development. 
 ### 🚀 Let's Collaborate
 Feel free to visit my [GitHub profile](https://github.com/Klaudiusz16/), where you can find my projects and contributions to the programming world. I have experience in creating responsive websites and web applications using PHP, WordPress, WooCommerce, and PrestaShop. In React applications, I utilize Gatsby.js and Next.js, and I integrate them with the Strapi CMS. I am eager to participate in new projects and collaborate with other programmers. Together, we can create innovative solutions and grow in the world of programming.
 
-Please note that this description is flexible, and you can adapt it according to your preferences and current programming experience.
-
