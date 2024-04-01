@@ -1,7 +1,7 @@
 ## 👨‍💻 Passionate Programmer | Full Stack Web Developer
 
 ### 🌟 About Me
-Hello! I'm a young and enthusiastic Full Stack Web Developer. I have been learning programming since 2019, and I'm currently 20 years old. My coding journey began with Python, which was my first programming language. Since then, I have been continuously developing my skills and gaining new experiences.
+Hello! I'm a young and enthusiastic Full Stack Web Developer. I have been learning programming since 2019. My coding journey began with Python, which was my first programming language. Since then, I have been continuously developing my skills and gaining new experiences.
 
 ### 💻 Technical Skills
 - Programming Languages: Python, JavaScript, PHP, TypeScript
@@ -10,6 +10,7 @@ Hello! I'm a young and enthusiastic Full Stack Web Developer. I have been learni
 - Databases: MongoDB, Doctrine
 - CMS: WordPress, Strapi, PayloadCMS
 - Tools: Git, GitHub
+  
 
 ### 🎓 Education and Experience
 I have been working as a Full Stack Web Developer since August 2022. My experience includes creating responsive websites and web applications using technologies such as PHP, WordPress, WooCommerce, and PrestaShop. Additionally, in React applications, I utilize Gatsby.js and Next.js, and I integrate them with the Strapi CMS, enabling flexible and scalable content management.
